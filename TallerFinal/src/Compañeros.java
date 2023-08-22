@@ -15,6 +15,9 @@ public class Compañeros {
     static Scanner sc = new Scanner(System.in);
     
     public static void main(String[] args) {
+       punto1();
+        punto2();
+        punto3Y4Y5();
         punto6Y7();
   
     }
